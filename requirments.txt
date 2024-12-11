@@ -1,0 +1,6 @@
+openai==1.52.2
+langchain==0.3.4
+langchain-openai==0.2.3
+fastapi==0.115.3
+uvicorn==0.32.0
+streamlit==1.39.0
